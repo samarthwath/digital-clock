@@ -1,0 +1,12 @@
+*{
+    font-family: 'Russo One', sans-serif;
+    background-color: black;
+}
+.style-day{
+    color: white;   
+    font-size: 125px;
+}
+.style-time{
+    color: white;   
+    font-size: 50px;
+}
